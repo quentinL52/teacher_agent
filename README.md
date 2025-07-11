@@ -1,0 +1,1 @@
+enseignant Langraph : demarre comme un chatbot, le graph fait appel a des outils pour generer des cours sur des sujet demandé, il recupere des liens vers des videos youtube ou des sites pertinent. un autre outils permet a l'agent d'indexer ce cours sur faiss pour interroger le chatbot plus tard sur ces cours.
